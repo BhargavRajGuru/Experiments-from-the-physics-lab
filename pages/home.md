@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Why this site?
-description: Uses an easy to customize theme for its website
+description: This is where I will tell my friends way too much about me
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
